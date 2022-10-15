@@ -1,4 +1,4 @@
-###Ayush
-##Ayush
-#Ayush
+# Profile
+## Ayush Chandak
+### Pursuisng Electronics & Communication Engineering
 
